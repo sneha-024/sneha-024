@@ -2,6 +2,7 @@
 
 🎓 B.Tech in Computer Science | GLA University  
 🌐 💻 Web Developer | Frontend-Focused | Backend-Aware | Building Real-Time Apps
+
 📬 Email: sarafsneha0@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-saraf-7962b3286/)  
 🔗 [GitHub Projects](https://github.com/sneha-024)

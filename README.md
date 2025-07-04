@@ -23,4 +23,11 @@
   🔗 [View Repo](https://github.com/sneha-024/Feedback-Survey-System)
 
 ---
+---
+
+### 📊 GitHub Activity Overview
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-024&layout=compact&theme=tokyonight)
 

@@ -1,34 +1,34 @@
-# Hi there, I'm Sneha Saraf 👋
+# Hi, I'm Sneha Saraf 👋
 
-🎓 B.Tech in Computer Science | GLA University  
-🌐 💻 Web Developer | Frontend-Focused | Backend-Aware | Building Real-Time Apps
-
-📬 Email: sarafsneha0@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sneha-saraf-7962b3286/)  
-🔗 [GitHub Projects](https://github.com/sneha-024)
+🌩️ Network Admin → Cloud & DevOps Engineer in progress  
+☁️ Learning: AWS · Linux · Docker · Kubernetes · Terraform · CI/CD  
+🏢 IT Networking @ DS Group | B.Tech CS, GLA University  
+📍 Noida, Delhi NCR
 
 ---
 
-### 💻 Tech Stack
-- HTML | CSS | JavaScript | TailwindCSS
-- Firebase | Node.js | Git | GitHub
-- Responsive UI | Dark Mode | Real-time Chat | Firebase Auth
+## 🎯 Currently Building
+- Linux mastery + AWS fundamentals
+- Real DevOps projects — hands-on, no shortcuts
+- Target: Cloud Engineer / DevOps Engineer roles
 
 ---
 
-### 🛠 My Projects
-- **Mental Health Bot**: Firebase-based AI chatbot with dark mode, chat history  
+## 🛠️ Skills in Progress
+`AWS` `Linux` `Docker` `Kubernetes` `Terraform` `Git` `Bash` `CI/CD` `Networking`
+
+---
+
+## 💻 Past Projects
+- **Mental Health Bot** — Firebase AI chatbot with real-time chat  
   🔗 [View Repo](https://github.com/sneha-024/Mental-health-bot)
-
-- **Feedback Survey System**: Full-stack system with dynamic forms and authentication  
+- **Feedback Survey System** — Full-stack with TypeScript + Auth  
   🔗 [View Repo](https://github.com/sneha-024/Feedback-Survey-System)
 
 ---
----
 
-### 📊 GitHub Activity Overview
-
-
+## 📬 Connect
+📧 sarafsneha0@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sneha-saraf-7962b3286/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-024&layout=compact&theme=tokyonight)
-

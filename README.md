@@ -1,34 +1,65 @@
 # Hi, I'm Sneha Saraf 👋
 
-🌩️ Network Admin → Cloud & DevOps Engineer in progress  
-☁️ Learning: AWS · Linux · Docker · Kubernetes · Terraform · CI/CD  
-🏢 IT Networking @ DS Group | B.Tech CS, GLA University  
-📍 Noida, Delhi NCR
+Network Administrator at DS Group with hands-on experience in Enterprise Networking, Cloud Infrastructure, DevOps, Automation, and MLOps.
+
+Currently working with SD-WAN, WAF (F5 Distributed Cloud), ThousandEyes, Firewalls, Webex, and Infrastructure Monitoring while building cloud-native solutions using AWS and modern DevOps practices.
 
 ---
 
-## 🎯 Currently Building
-- Linux mastery + AWS fundamentals
-- Real DevOps projects — hands-on, no shortcuts
-- Target: Cloud Engineer / DevOps Engineer roles
+##  Core Technologies
+
+AWS • Terraform • Docker • Kubernetes • Linux • Git • GitHub Actions • CI/CD • Prometheus • Grafana • Nginx • Python • MLflow
 
 ---
 
-## 🛠️ Skills in Progress
-`AWS` `Linux` `Docker` `Kubernetes` `Terraform` `Git` `Bash` `CI/CD` `Networking`
+##  Featured Cloud & DevOps Projects
+
+### 🔹 Project 3 — End-to-End MLOps Pipeline
+
+* AWS Infrastructure with Terraform
+* Dockerized ML Application
+* Kubernetes Deployment & Rolling Updates
+* GitHub Actions CI/CD
+* MLflow Experiment Tracking
+* Prometheus + Grafana Monitoring
+* Production-style Cloud Deployment
+
+### 🔹 Project 2 — Docker CI/CD Pipeline
+
+* Dockerized Web Application
+* GitHub Actions Automation
+* DockerHub Integration
+* AWS EC2 Deployment
+* Automated Build & Deployment Workflow
+
+### 🔹 Project 1 — AWS NGINX Infrastructure
+
+* AWS EC2 Provisioning
+* Linux Server Administration
+* NGINX Web Server Deployment
+* SSH Management
+* Security Groups Configuration
+* Production-style Hosting Environment
 
 ---
 
-## 💻 Past Projects
-- **Mental Health Bot** — Firebase AI chatbot with real-time chat  
-  🔗 [View Repo](https://github.com/sneha-024/Mental-health-bot)
-- **Feedback Survey System** — Full-stack with TypeScript + Auth  
-  🔗 [View Repo](https://github.com/sneha-024/Feedback-Survey-System)
+##  Areas of Interest
+
+* Cloud Engineering
+* DevOps Engineering
+* Platform Engineering
+* Site Reliability Engineering (SRE)
+* Infrastructure Automation
+* Cloud-Native Technologies
 
 ---
 
-## 📬 Connect
-📧 sarafsneha0@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sneha-saraf-7962b3286/)
+##  Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-024&layout=compact&theme=tokyonight)
+LinkedIn:
+[www.linkedin.com/in/sneha-saraf-7962b3286](http://www.linkedin.com/in/sneha-saraf-7962b3286)
+
+GitHub:
+github.com/sneha-024
+
+Building scalable infrastructure, automation workflows, monitoring systems, and cloud-native deployments through hands-on implementation.

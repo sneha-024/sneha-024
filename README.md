@@ -1,65 +1,44 @@
 # Hi, I'm Sneha Saraf 👋
+### DevOps Engineer
 
-Network Administrator at DS Group with hands-on experience in Enterprise Networking, Cloud Infrastructure, DevOps, Automation, and MLOps.
-
-Currently working with SD-WAN, WAF (F5 Distributed Cloud), ThousandEyes, Firewalls, Webex, and Infrastructure Monitoring while building cloud-native solutions using AWS and modern DevOps practices.
-
----
-
-##  Core Technologies
-
-AWS • Terraform • Docker • Kubernetes • Linux • Git • GitHub Actions • CI/CD • Prometheus • Grafana • Nginx • Python • MLflow
+> Automating infrastructure • Building scalable cloud-native systems • Reducing operational overhead
 
 ---
 
-##  Featured Cloud & DevOps Projects
+## 👩‍💻 About Me
 
-### 🔹 Project 3 — End-to-End MLOps Pipeline
+DevOps Engineer — managing and automating enterprise infrastructure across **34 locations** with a focus on CI/CD, IaC, containerization, and observability. Passionate about building systems that are reliable, secure, and self-healing.
 
-* AWS Infrastructure with Terraform
-* Dockerized ML Application
-* Kubernetes Deployment & Rolling Updates
-* GitHub Actions CI/CD
-* MLflow Experiment Tracking
-* Prometheus + Grafana Monitoring
-* Production-style Cloud Deployment
-
-### 🔹 Project 2 — Docker CI/CD Pipeline
-
-* Dockerized Web Application
-* GitHub Actions Automation
-* DockerHub Integration
-* AWS EC2 Deployment
-* Automated Build & Deployment Workflow
-
-### 🔹 Project 1 — AWS NGINX Infrastructure
-
-* AWS EC2 Provisioning
-* Linux Server Administration
-* NGINX Web Server Deployment
-* SSH Management
-* Security Groups Configuration
-* Production-style Hosting Environment
+- 🚀 Reduced MTTD by **35%** through real-time alerting automation
+- ⚡ Cut provisioning time by **60%** using Ansible + IaC practices  
+- 🔒 Reduced security incident response time by **45%** via SIEM integration
+- 📉 Improved MTTR from **45 mins → 12 mins** with ThousandEyes observability
 
 ---
 
-##  Areas of Interest
+## 🚀 Featured Projects
 
-* Cloud Engineering
-* DevOps Engineering
-* Platform Engineering
-* Site Reliability Engineering (SRE)
-* Infrastructure Automation
-* Cloud-Native Technologies
+### 🔹 MLOps Sentiment Analysis Pipeline
+End-to-end MLOps pipeline — Scikit-learn + Flask API, Dockerized, deployed on AWS EC2 with Nginx, Kubernetes (3 replicas, zero-downtime rolling updates), Terraform IaC, Prometheus + Grafana observability, GitHub Actions CI/CD.
+
+### 🔹 Dockerized App with GitHub Actions CI/CD
+Fully automated CI/CD — Docker + Docker Compose, GitHub Secrets, auto-build → DockerHub push → EC2 deploy on every commit. Zero manual steps.
+
+### 🔹 Mental Health Bot
+AI-powered chatbot — Firebase Auth (Google OAuth 2.0), real-time conversations, dark mode, responsive UI, modular architecture.
 
 ---
 
-##  Connect
+## 🛠️ Tech Stack
 
-LinkedIn:
-[www.linkedin.com/in/sneha-saraf-7962b3286](http://www.linkedin.com/in/sneha-saraf-7962b3286)
+**DevOps & Cloud:** AWS (EC2, S3, VPC, IAM, CloudWatch), Docker, Kubernetes, Terraform, Jenkins, GitLab CI, GitHub Actions, Ansible  
+**Monitoring & Observability:** Prometheus, Grafana, CloudWatch, Cisco ThousandEyes, SIEM  
+**Security:** Palo Alto NGFW, F5 Distributed Cloud WAF, SD-WAN (FortiManager), OWASP Top 10  
+**Languages:** Python, Bash, JavaScript  
+**OS:** Linux (Ubuntu), Windows
 
-GitHub:
-github.com/sneha-024
+---
 
-Building scalable infrastructure, automation workflows, monitoring systems, and cloud-native deployments through hands-on implementation.
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Saraf-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sneha-saraf-7962b3286/)
